@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: com.actitime.sampletest.SampleTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1.274 sec <<< FAILURE!
+deleteUserTest(com.actitime.sampletest.SampleTest)  Time elapsed: 0.004 sec  <<< FAILURE!
+java.lang.Error: Unresolved compilation problems: 
+	FirefoxDriver cannot be resolved to a type
+	FirefoxDriver cannot be resolved to a type
+
+	at com.actitime.sampletest.SampleTest.deleteUserTest(SampleTest.java:22)
+
